@@ -5,7 +5,7 @@ function agregarNumero(number) {
          pantalla.innerText += number;
 }
 
-function clearDisplay() {
+function borrarPantalla() {
     document.getElementById('pantalla').innerText = '0';
 }
 
